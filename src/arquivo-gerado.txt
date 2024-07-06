@@ -1,2 +1,0 @@
-Olá, Mundo!
-Este é um exemplo de escrita em arquivo.
